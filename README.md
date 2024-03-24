@@ -1,6 +1,8 @@
 # Projetos em Python
-
 Este repositório foi feito para apresentar alguns projetos que estou fazendo. Esses projetos usam o conhecimento adquirido durante o curso de Python do canal Curso em Vídeo do Gustavo Guanabara. Portanto, serão funcionalidades básicas e intermediárias.
 
 ## Projeto Mad Lib
-Um Mad Lib é uma história que foi estrategicamente editada para que algumas palavras sejam substituídas por outras quaisquer, em um jogo com duas ou mais pessoas.
+Este projeto em Python utiliza várias funcionalidades da linguagem para criar um jogo de preenchimento de lacunas chamado "Mad Libs". No início, o programa apresenta uma história com espaços em branco que precisam ser preenchidos com palavras específicas, como substantivos, adjetivos e verbos. Em seguida, o programa solicita que o usuário forneça essas palavras. Para garantir que as entradas sejam válidas, o programa verifica se as palavras contêm apenas letras. Após receber todas as palavras, o programa insere essas palavras na história e a imprime, criando uma narrativa divertida e muitas vezes sem sentido, baseada nas escolhas do usuário. O projeto demonstra o uso de funções, manipulação de strings, entrada de dados pelo usuário e formatação de saída de texto em Python.
+
+## Projeto Análise de dados de números digitados
+Este projeto em Python usa diversas funcionalidades da linguagem para criar um programa que analisa números digitados pelo usuário. Ele permite que o usuário insira quatro números, que são armazenados em uma tupla. Em seguida, o programa verifica se o número 9 foi digitado e, se sim, mostra quantas vezes ele foi inserido. Também verifica se o número 3 foi digitado e, se sim, mostra em quais índices ele aparece na tupla. Além disso, o programa identifica os números pares digitados e os exibe. As informações são apresentadas de forma organizada e legível ao usuário. O projeto demonstra o uso de funções, compreensões de lista, controle de fluxo e entrada/saída de dados em Python.
